@@ -2,6 +2,8 @@
 
 ExtJS package to use [Material Design Iconic Font](https://material.io/icons/) in a ExtJS application or workspace by Dmitry Kazarin.
 
+All available icons can be viewed at [THIS](http://extjs.club/github/extjs-font-material/Material.html)
+
 Current version of Material Design Icons: 3.0.1
 
 ## Adding package to workspace or app

@@ -5,7 +5,7 @@ ExtJS package to use [Material Design Iconic Font](https://material.io/icons/) i
 Current version of Material Design Icons: 3.0.1
 
 ## Adding package to workspace or app
-Download [font-material.pkg](https://github.com/Swat2k/extjs-material-icons/releases) from releases [1.0.0]
+Download [font-material.pkg](https://github.com/Swat2k/extjs-font-material/releases) from releases [1.0.0]
 
 copy: .pkg file to workspace of your project
 

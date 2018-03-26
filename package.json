@@ -1,0 +1,39 @@
+{
+    "name": "font-material",
+    "sencha": {
+        "namespace": "Ext",
+        "type": "code",
+        "toolkit": "classic",
+        "creator": "Dmitry Kazarin",
+        "summary": "Material icons for ExtJS",
+        "detailedDescription": "Material icons for ExtJS",
+        "version": "1.0.0",
+        "compatVersion": "1.0.0",
+        "format": "1",
+        "output": "${package.dir}/build",
+        "local": true,
+        "sass" : {
+            "namespace": "Ext",
+            "etc": [
+                "${package.dir}/sass/etc/all.scss"
+            ],
+            "var": [
+                "${package.dir}/sass/var"
+            ],
+            "src": [
+                "${package.dir}/sass/src"
+            ]
+        },
+        "resource": {
+            "paths": ""
+        },
+        "resources": [
+            {
+                "path": "${package.dir}/resources",
+                "output": "shared"
+            }
+        ],
+        "slicer": null,
+        "requires": []
+    }
+}

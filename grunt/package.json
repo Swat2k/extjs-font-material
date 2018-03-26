@@ -1,0 +1,38 @@
+{
+    "name": "font-material",
+    "version": "0.0.1",
+    "description": "Material icons package for ExtJS",
+    "author": "Dmitry Kazarin",
+    "contributors": [
+        {
+            "name": "Dmitry Kazarin",
+            "email": "dikazarin@gmail.com"
+        }
+    ],
+    "dependencies": {
+        "grunt": "~1.0.1",
+        "grunt-cli": "~1.2.0",
+        "grunt-contrib-less": "~1.4.0",
+        "grunt-contrib-watch": "~1.0.0",
+        "grunt-contrib-uglify": "~2.0.0",
+        "grunt-webfont": "~1.6.0",
+        "fontforge": "~0.0.4",
+        "ttf2woff2": "2.0.3"
+    },
+    "devDependencies": {
+        "grunt": "~1.0.1",
+        "grunt-cli": "~1.2.0",
+        "grunt-contrib-less": "~1.4.0",
+        "grunt-contrib-watch": "~1.0.0",
+        "grunt-contrib-uglify": "~2.0.0",
+        "grunt-webfont": "~1.6.0",
+        "fontforge": "~0.0.4",
+        "ttf2woff2": "2.0.3"
+    },
+    "licenses": [
+        {
+            "type": "GPLv3",
+            "url": "http://www.gnu.org/licenses/gpl-3.0.html"
+        }
+    ]
+}
